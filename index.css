@@ -47,8 +47,8 @@ div.object {
 }
 
 .image {
-    width: 100%;
-    height: 100%;
+    /*width: 100%;
+    height: 100%;*/
     background-color: #f7f6f3;
     border-radius: 55px;
     padding-top: 5px;
@@ -64,7 +64,6 @@ div.object {
     color: rgba(7,79,113,0.99);
     padding: 16px 32px;
     text-align: center;
-    
     color: #daaa00;
     display: inline-block;
     font-size: 25px;
