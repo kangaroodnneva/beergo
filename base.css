@@ -100,14 +100,16 @@ h1 {
    /* align-items: center;*/
 
 }
- .text-about-us {
+
+/*noinspection ALL*/
+.text-about-us {
     height: 30%;
     width: 40%;
     margin-top: 7%;
     font-size: x-large;
     color: #f7f6f3;
      margin-right: 3%;
-     line-height: 25px;
+     line-height: 1.2em;
      text-align: right;
 }
 
