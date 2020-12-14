@@ -54,6 +54,9 @@ div.object {
     padding-left: 5px;
     padding-right: 5px;
  }
+img {
+    width: 100%;
+}
 
 .button {
     border: none;
