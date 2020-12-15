@@ -52,7 +52,7 @@ html, body {
 .active, .menu-item:hover > a {
     /*text-decoration: underline!important;*/
     color: #f7f6f3!important;
-    text-shadow: 1px 3px 7px white;
+    text-shadow: -1px -1px #daaa00, -2px -2px #daaa00, -1px 1px #daaa00, -2px 2px #daaa00, 1px 1px #daaa00, 2px 2px #daaa00, 1px -1px #daaa00, 2px -2px #daaa00, -3px -3px 2px #daaa00, -3px 3px 2px #daaa00, 3px 3px 2px #daaa00, 3px -3px 2px #daaa00;
 }
 
 .menu a {
@@ -131,4 +131,6 @@ h1 {
 .photo-of-us :hover {
     transform: scale(1.2);
 }
+
+
 

@@ -6,10 +6,12 @@
         <link rel="stylesheet" href="base.css">
         <link rel="stylesheet" href="beergo-catalog.css">
         <link rel="shortcut icon" href="images/favicon.ico" >
+        <link rel="stylesheet" media="screen" href="print.css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
         <div class="container">
-
+    <header>
             <div class="top-picture">
                 <div class="header-icon">
                     <img id="headerpicture" src="images/IMG_2230.png" alt="Beer Go">
@@ -28,18 +30,21 @@
                     </div>
                 </nav>
             </div>
-
+    </header>
 
             <h1 class="page-title">Beer</h1>
             <div class="main">
-                <div class="sidemenu">
-                    <div class="sidemenu-items-container">
-                        <div class="sidemenu-item-active"><a href="beergo-catalog-beer.html">Beer</a></div>
-                        <div class="sidemenu-item"><a href="beergo-catalog-wine.html"> Wine </a></div>
-                        <div class="sidemenu-item"><a href="beergo-catalog-snacks.html">Snacks</a></div>
+                <aside>
+                    <div class="sidemenu">
+                        <div class="sidemenu-items-container">
+                            <div class="sidemenu-item-active"><a href="beergo-catalog-beer.html">Beer</a></div>
+                            <div class="sidemenu-item"><a href="beergo-catalog-wine.html"> Wine </a></div>
+                            <div class="sidemenu-item"><a href="beergo-catalog-snacks.html">Snacks</a></div>
+                        </div>
                     </div>
-                </div>
-                <div class="products-menu">
+                </aside>
+                <article>
+                    <div class="products-menu">
                     <div class="product">
                         <img src="products/altmuller.jpg" alt="Something went wrong :( Trust us, our beer is beautiful!" class="product-picture">
                         <div class="name">
@@ -94,13 +99,14 @@
                             <p class="productNameText">Original Dark New Brew</p>
                         </div>
                     </div>
-                    <div class="product">
+                        <div class="product">
                         <img src="products/fragolinowithstrawberries.jpg" alt="Something went wrong :( Trust us, our beer is beautiful!" class="product-picture">
-                        <div class="name">
+                            <div class="name">
                             <p class="productNameText">Fragolino</p><wbr><p>with</p><wbr><p>strawberries</p>
+                            </div>
                         </div>
                     </div>
-                </div>
+                </article>
             </div>
         </div>
     </body>

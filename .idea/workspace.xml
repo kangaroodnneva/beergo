@@ -23,13 +23,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a72aaa1c-22c1-4320-ad5c-06a8b8a56f13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/print.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beergo-about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beergo-catalog-beer.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-beer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beergo-catalog-snacks.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-snacks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beergo-catalog-wine.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-wine.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/beergo-contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607888306956</updated>
       <workItem from="1607888309245" duration="1894000" />
-      <workItem from="1607891069886" duration="5558000" />
+      <workItem from="1607891069886" duration="10210000" />
+      <workItem from="1608044322512" duration="2179000" />
     </task>
     <servers />
   </component>
@@ -70,11 +86,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="297" key="RollbackChangesDialog" timestamp="1607931232639">
+    <state x="555" y="297" key="RollbackChangesDialog" timestamp="1608045772943">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="555" y="297" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1607931232639" />
+    <state x="555" y="297" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1608045772943" />
   </component>
 </project>
