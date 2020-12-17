@@ -1,12 +1,10 @@
-aside {
-    width: 20%;
-}
+
 .sidemenu {
     position: -webkit-sticky;
     position: sticky;
     top: 40px;
     align-self: flex-start;
-    width: 100%;
+    width: 20%;
     height: 320px;
     border-radius: 10%;
     margin-top: 40px;
