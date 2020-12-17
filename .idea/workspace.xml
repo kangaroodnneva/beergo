@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a72aaa1c-22c1-4320-ad5c-06a8b8a56f13" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/beergo-catalog.css" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
       <workItem from="1607888309245" duration="1894000" />
       <workItem from="1607891069886" duration="10210000" />
       <workItem from="1608044322512" duration="10283000" />
-      <workItem from="1608231961898" duration="6779000" />
+      <workItem from="1608231961898" duration="6817000" />
     </task>
     <servers />
   </component>
