@@ -23,32 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a72aaa1c-22c1-4320-ad5c-06a8b8a56f13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/beergo-catalog-mobile.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/base.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/beergo-about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/beergo-catalog-beer.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-beer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beergo-catalog-snacks.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-snacks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beergo-catalog-wine.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-wine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_2230.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_2475.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/IMG_2475.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/we/photo_2020-11-28 22.20.24.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/we/photo_2020.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/we/photo_2020.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/IMG_1195.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1195.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/IMG_1201.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1201.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/IMG_1207.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1207.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/IMG_1209.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1209.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/IMG_1210.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1210.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/IMG_1213.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1213.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/Weisburglight.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/products/Weisburglight.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/Weisburgwhite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/products/Weisburgwhite.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/madbrew.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/products/madbrew.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/mulledwine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/products/mulledwine.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/oakgarden.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/products/oakgarden.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/originaldark.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/products/originaldark.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/raspberrycider.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/products/raspberrycider.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/redwine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/products/redwine.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/soulofabrewer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/products/soulofabrewer.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/whitewine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/products/whitewine.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beergo-catalog.css" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +66,8 @@
       <updated>1607888306956</updated>
       <workItem from="1607888309245" duration="1894000" />
       <workItem from="1607891069886" duration="10210000" />
-      <workItem from="1608044322512" duration="9597000" />
+      <workItem from="1608044322512" duration="10283000" />
+      <workItem from="1608231961898" duration="1618000" />
     </task>
     <servers />
   </component>
