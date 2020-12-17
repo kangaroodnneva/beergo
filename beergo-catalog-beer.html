@@ -9,14 +9,14 @@
         <meta name="description" content="BeerGo store product catalog" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link media="print" rel="stylesheet" href="print.css">
-        <link rel="stylesheet" type="text/css" media="screen and (max-width:480px)" href="base-mobile.css" />
-        <link rel="stylesheet" type="text/css" media="screen and (max-width:480px)" href="beergo-catalog-mobile.css">
+        <link rel="stylesheet" type="text/css" media="(max-width:480px)" href="base-mobile.css" />
+        <link rel="stylesheet" type="text/css" media="(max-width:480px)" href="beergo-catalog-mobile.css">
     </head>
     <body>
 
-        <header class="container">
+        <div class="container">
 
-            <div class="top-picture">
+            <header class="top-picture">
                 <div class="header-icon">
                     <img id="headerpicture" src="images/IMG_2230.png" alt="Beer Go">
                 </div>
@@ -33,12 +33,12 @@
                         </div>
                     </div>
                 </nav>
-            </div>
-        </header>
+            </header>
+        </div>
 
 
             <h1 class="page-title">Beer</h1>
-            <main class="main">
+            <div class="main">
 
                     <aside class="sidemenu">
                         <div class="sidemenu-items-container">
@@ -50,7 +50,7 @@
 
 
 
-                    <div class="products-menu">
+                <div class="products-menu">
                     <div class="product">
                         <img src="products/altmuller.svg" alt="Something went wrong :( Trust us, our beer is beautiful!" class="product-picture">
                         <div class="name">
@@ -112,6 +112,7 @@
                             </div>
                         </div>
                     </div>
+                </div>
 
             </main>
 
