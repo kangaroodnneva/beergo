@@ -72,13 +72,13 @@ html, body {
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-between;
-    margin-top: 20px;
+    margin-top: 10%;
     /*align-items: center;*/
 }
 .map, .contacts {
     height: 37%;
     width: 40%;
-    margin-top: 0%;
+    margin-top: 10%;
     font-size: x-large;
     color: #daaa00;
 }
