@@ -92,6 +92,12 @@ h1 {
     color: #f7f6f3;
     text-align: center;
 }
+.page-title1 {
+    font-size: 50px;
+    color: #f7f6f3;
+    text-align: center;
+    display: none;
+}
 .about-us {
     display: flex;
     flex-direction: row;
