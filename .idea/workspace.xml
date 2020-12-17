@@ -24,9 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a72aaa1c-22c1-4320-ad5c-06a8b8a56f13" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/beergo-catalog-beer.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-beer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beergo-catalog-snacks.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-snacks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beergo-catalog-wine.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-wine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beergo-contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-contacts.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,7 @@
       <workItem from="1607888309245" duration="1894000" />
       <workItem from="1607891069886" duration="10210000" />
       <workItem from="1608044322512" duration="10283000" />
-      <workItem from="1608231961898" duration="5243000" />
+      <workItem from="1608231961898" duration="5424000" />
     </task>
     <servers />
   </component>
