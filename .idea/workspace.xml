@@ -22,7 +22,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a72aaa1c-22c1-4320-ad5c-06a8b8a56f13" name="Default Changelist" comment="" />
+    <list default="true" id="a72aaa1c-22c1-4320-ad5c-06a8b8a56f13" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beergo-catalog-beer.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-beer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beergo-catalog-snacks.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-snacks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beergo-catalog-wine.html" beforeDir="false" afterPath="$PROJECT_DIR$/beergo-catalog-wine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/IMG_1195.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1195.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/IMG_1201.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1201.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/IMG_1207.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1207.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/IMG_1209.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1209.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/IMG_1210.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1210.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/IMG_1213.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/IMG_1213.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/Weisburglight.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/Weisburglight.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/Weisburgwhite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/Weisburgwhite.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/altmuller.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/altmuller.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/blanshpshenichnoje.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/blanshpshenichnoje.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/fragolinowithstrawberries.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/fragolinowithstrawberries.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/madbrew.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/madbrew.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/mulledwine.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/mulledwine.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/oakgarden.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/oakgarden.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/originaldark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/originaldark.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/raspberrycider.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/raspberrycider.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/redwine.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/redwine.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/soulofabrewer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/soulofabrewer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/whitewine.svg" beforeDir="false" afterPath="$PROJECT_DIR$/products/whitewine.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +85,7 @@
       <workItem from="1607891069886" duration="10210000" />
       <workItem from="1608044322512" duration="10283000" />
       <workItem from="1608231961898" duration="8743000" />
-      <workItem from="1608312279109" duration="2622000" />
+      <workItem from="1608312279109" duration="3078000" />
     </task>
     <servers />
   </component>
