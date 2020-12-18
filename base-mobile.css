@@ -90,6 +90,7 @@ h1 {
     font-size: 30px;
     color: rgba(17,17,17);
     text-align: center;
+    display: none;
 
 }
 .about-us {
